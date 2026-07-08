@@ -1,8 +1,8 @@
 # PXLROOM
 Unleash creativity and customize your own room!
 
-<img width="2000" height="1500" alt="20260708_164419" src="https://github.com/user-attachments/assets/ae11d6df-e362-4a80-b63c-ad29831d6a3a" />
-<img width="1500" height="2000" alt="20260708_164453" src="https://github.com/user-attachments/assets/3604d837-bd84-481d-99e5-cd9823ff542b" />
+<img width="200" height="150" alt="20260708_164419" src="https://github.com/user-attachments/assets/ae11d6df-e362-4a80-b63c-ad29831d6a3a" />
+<img width="150" height="200" alt="20260708_164453" src="https://github.com/user-attachments/assets/3604d837-bd84-481d-99e5-cd9823ff542b" />
 
 
 ## 3 Different Bed Styles, 3 Different Flooring, 2 Different Desks, 2 Different Shelving, Chair, Part Organizer, and Working Shelves??
