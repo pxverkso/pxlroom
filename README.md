@@ -11,5 +11,7 @@ Unleash creativity and customize your own room!
 
 ### The whole modular system is held together by M4 Screws which can be found widely available at most hardware stores!
 
+### Here are the m4 screws I used in the project, but any will work fine: https://www.gobilda.com/m4-x-0-7mm-zinc-plated-socket-head-screw-10mm-length/?sku=2800-0004-0010 
+
 ### [The Onshape of this project is here!](https://cad.onshape.com/documents/7d2dc5e80015138fd7c301b1/w/c9aa679e76d9487a3171ee0a/e/0bc48c87ea36ef571d856209?renderMode=0&uiState=6a4ee370ab75d8074ae138c4) (Use for assembly Guide)
 ### [Download and Print on Printables here!](https://www.printables.com/model/1776203-pxlroom)
