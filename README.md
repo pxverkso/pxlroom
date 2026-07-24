@@ -7,6 +7,9 @@ Unleash creativity and customize your own room!
 
 ## 3 Different Bed Styles, 3 Different Flooring, 2 Different Desks, 2 Different Shelving, Chair, Part Organizer, and Working Shelves??
 
+## Why I made this
+It's a fun interactive experience for people who constantly move their room set up around. You can actually see what fits and doesn't fit. It doesn't really have the full IKEA catalog yet but it's a great concept for someone to build upon. What you're seeing above is my actual room set up!
+
 ### This is Pxl Room, scaled 1:24 down from real life, it uses inspiration from real life IKEA furniture to create a mini room which the user can decorate on their own!
 
 ### The whole modular system is held together by M4 Screws which can be found widely available at most hardware stores!
